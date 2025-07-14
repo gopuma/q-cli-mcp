@@ -14,10 +14,9 @@
        
 4. Ubuntu용 Amazon Q를 다운로드 한다.
    ```
-    1. wget https://desktop-release.q.us-east-1.amazonaws.com/latest/amazon-q.deb ```
-    2. 패키지 설치 
-    3. sudo apt-get install -f
-    4. sudo dpkg -i amazon-q.deb
+    wget https://desktop-release.q.us-east-1.amazonaws.com/latest/amazon-q.deb 
+    sudo apt-get install -f
+    sudo dpkg -i amazon-q.deb```
        
 6. Amazon Q을 실행
     1. q login
