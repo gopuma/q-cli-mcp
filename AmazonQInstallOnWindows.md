@@ -1,9 +1,9 @@
 # Workshop
 
 1. 윈도우에 Amazon Q 설치하기
-Windows 기능 켜기/끄기
+   - Windows 기능 켜기/끄기
 ￼
-2. Linux용 Windows 하위 시스템과 가상 머신 플랫폼 기능을 켠다.
+3. Linux용 Windows 하위 시스템과 가상 머신 플랫폼 기능을 켠다.
 
 ￼
 	- 재부팅(Restart)하여 설정 변경 적용한다.
