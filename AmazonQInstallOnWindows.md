@@ -1,4 +1,4 @@
-# Workshop
+## Windows에 Amazon Q Developer CLI 설치하기
 
 1. 윈도우에 Amazon Q 설치하기
     1. Windows 기능 켜기/끄기
