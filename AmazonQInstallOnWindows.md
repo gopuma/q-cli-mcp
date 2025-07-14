@@ -9,9 +9,10 @@
     1. 재부팅(Restart)하여 설정 변경 적용한다.
 
 3. CMD에서 wsl 업데이트 및 ubuntu 설치
-      ```wsl —install -d ubuntu
-      
-    패스워드 설정하고 사용 가능
+      ```
+      wsl —install -d ubuntu
+      ``` 
+      패스워드 설정하고 사용 가능
        
 4. Ubuntu용 Amazon Q를 다운로드 한다.
    ```
