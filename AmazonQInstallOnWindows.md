@@ -24,6 +24,7 @@
 
     2. Amazon Builder ID 생성 및 등록
      ￼<img width="1969" height="1031" alt="amazon_builder_id" src="https://github.com/user-attachments/assets/bb4fe735-2519-4d55-a8bd-b04d5f8874aa" />
+     위 CMD의 URL로 이동하여 Amazon Builder ID를 생성한다.
 
     3. Amazon Q CLI 실행
      ￼<img width="2045" height="1824" alt="amazonq_builder_id_login" src="https://github.com/user-attachments/assets/d0a34e1c-7e59-4e4b-8246-2c39a8c9a99b" />
